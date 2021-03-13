@@ -1,0 +1,1 @@
+Left,Down,Down,Down,Down,Right,Down,Right

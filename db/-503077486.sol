@@ -1,0 +1,1 @@
+Right,Up,Right,Right

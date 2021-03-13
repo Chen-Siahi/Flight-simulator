@@ -1,0 +1,6 @@
+var x=7
+var z=2
+var y=7+z
+print(x)
+print "chen"
+return x+y
